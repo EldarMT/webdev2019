@@ -28,7 +28,7 @@ body{
     left: 100px;
     height:50px;
     width: 110px;
-    top: 25px;
+    top: 22px;
 }
 #form1{
     left: 700px;
@@ -46,12 +46,13 @@ body{
    left: 1100px;
    top: 39px;
    background: white;
-   color: #142170;
+   color: white;
    position: fixed;
    z-index: 20;
    height: 22px;
    width: 50px;
    cursor: pointer;
+   background-color: #142175;
 }
 .bodyx{
      position: absolute;
@@ -66,7 +67,7 @@ body{
     left: 100px;
     font-family: verdana;
     font-size: 30px;
-    color: #142170;
+    color: black;
     height: 75px;
     width: 550px;
 }
@@ -75,7 +76,7 @@ body{
     left: 700px;
     font-family: verdana;
     font-size: 50px;
-    color: #142170;
+    color: black;
     width: 500px;
     height: 60px;
 }
@@ -90,7 +91,7 @@ body{
     left: 700px;
     font-family: verdana;
     font-size: 20px;
-    color: #142170;
+    color: black;
     height: 50px;
     width: 300px;
 }
